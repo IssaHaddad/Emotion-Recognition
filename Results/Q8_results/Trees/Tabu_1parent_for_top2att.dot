@@ -1,0 +1,16 @@
+digraph 'MyRelation-weka.filters.unsupervised.attribute.Remove-V-R1362,1314,24-25,818,170,1897,1896,11-12,551,599,1408,1456,2305-weka.filters.supervised.attribute.Discretize-Rfirst-last-precision6-weka.filters.unsupervised.attribute.ReplaceMissingValues' {
+Class->Pixel1362
+Class->Pixel1314
+Pixel25->Pixel24
+Pixel170->Pixel25
+Pixel11->Pixel818
+Class->Pixel170
+Class->Pixel1897
+Class->Pixel1896
+Pixel24->Pixel11
+Pixel11->Pixel12
+Class->Pixel551
+Class->Pixel599
+Class->Pixel1408
+Class->Pixel1456
+}
